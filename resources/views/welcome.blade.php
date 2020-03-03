@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                <a href="https://cytonn.com">Cytonn</a>
+                    <a href="https://cytonn.com">Cytonn</a>
                     <a href="https://cytonn.com/events">Events</a>
                     <a href="https://cytonn.com/media-center">News</a>
                     <a href="https://cytonn.com/blogs">Blogs</a>
